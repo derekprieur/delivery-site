@@ -33,7 +33,7 @@ export const data = [
     },
     {
         id: 5,
-        name: 'Rainbox Pizza',
+        name: 'Rainbow Pizza',
         category: 'pizza',
         image:
             'https://images.unsplash.com/photo-1532768778661-1b347c5f02ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80',
@@ -41,7 +41,7 @@ export const data = [
     },
     {
         id: 6,
-        name: 'Smoked Sausage Pizza',
+        name: 'Smoked "Sausage" Pizza',
         category: 'pizza',
         image:
             'https://images.unsplash.com/photo-1585238342024-78d387f4a707?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80',
